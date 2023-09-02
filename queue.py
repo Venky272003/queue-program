@@ -1,3 +1,7 @@
+''' 
+    *** Python program on Queue functions ***
+'''
+
 class Queue:
     def __init__(self):
         self.items = []
