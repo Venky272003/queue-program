@@ -46,3 +46,6 @@ if __name__ == "__main__":
     print("Rear element:", q.rear())
     print("Dequeue:", q.dequeue())
     print("Queue size:", q.size())
+
+
+    print('Life is a race 😊')
